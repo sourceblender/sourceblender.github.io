@@ -1,2 +1,1 @@
-# sourceblender.github.io
-SourceBlender Website
+# SourceBlender
